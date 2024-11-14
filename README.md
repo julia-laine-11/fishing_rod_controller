@@ -27,13 +27,15 @@ I took lead of the electronics on the team and I created this PCB:
 
 *the initial design tested on a breadboard*
 
-![image](https://github.com/user-attachments/assets/cbf49570-da14-47fd-83b5-5bcc48d3562f)
+![image](https://github.com/user-attachments/assets/cbf49570-da14-47fd-83b5-5bcc48d3562f) ![image](https://github.com/user-attachments/assets/06680dad-8847-4e7b-98ed-12ebfa77af20)
+
 
 *the first PCB design - I forgot to add thru holes to connect the ground planes*
 
-![image](https://github.com/user-attachments/assets/004962ed-e535-4310-a0e9-d4288a5c03ca)
+![image](https://github.com/user-attachments/assets/004962ed-e535-4310-a0e9-d4288a5c03ca) ![image](https://github.com/user-attachments/assets/81d6a68e-265c-42d5-bbef-e9894bf5deb0)
 
-*the second PCB design. The arrows are notes I left for my team to understand in the future.*
+
+*the second PCB design. I made more changes as I learned from my first design. Notice the larger isolation and more options for alterntae parts.*
 
 ![image](https://github.com/user-attachments/assets/dadac3ab-c807-428d-a16d-710eed9a1494)
 
