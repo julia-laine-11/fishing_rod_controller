@@ -41,6 +41,13 @@ I took lead of the electronics on the team and I created this PCB:
 
 *my teammates on the left, our project partner, Colton, on the right*
 
+[Here is a video](https://www.facebook.com/reel/425838616804608) of Colton using it.
+
+[And another](https://www.facebook.com/share/v/JBNppNtS4n77EEXA/)
+
+![image](https://github.com/user-attachments/assets/8b2feb90-0010-4866-8536-dcf8a9f5559f)
+
+*Colton and a fish he caught with the fishing rod*
 
 
 ![image](https://github.com/user-attachments/assets/c25b1159-0f68-4423-a8e2-d83e87adf4e2)
